@@ -1,12 +1,18 @@
 # ✦ draw-me-a-sheep
 
+一个简单的协作空间
+
 ---
 
 
 <details>
-<summary><b>○ 任务牧场 · 当前迭代</b> <sub>点击展开</sub></summary>
+<summary><b>○ TODOs </b> <sub>点击展开</sub></summary>
 
 <br>
+
+
+
+
 
 <details>
 <summary><b>优先照料</b> <sub>(当前需专注)</sub></summary>
@@ -18,6 +24,11 @@
 </details>
 
 <details>
+
+
+
+
+
 <summary><b>积压清理</b> <sub>(提醒勿忘)</sub></summary>
 
 <br>
@@ -63,7 +74,22 @@
 
 </details>
 
-<br>
+
+
+
+
+
+
+------
+
+
+
+
+
+
+
+
+
 
 > *“Sometimes, there is no harm in putting off a piece of work until another day.”*  
 > —— Antoine de Saint-Exupéry

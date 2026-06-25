@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80&fit=crop&fm=jpg" width="600" alt="星空与沙漠 - 小王子的星球" />
+  <img src="https://m.media-amazon.com/images/I/61Xyy18GURL._AC_SX679_.jpg" width="600" alt="星空与沙漠 - 小王子的星球" />
   <br>
   <sub><i>✨ 在星空中寻找那一朵独一无二的玫瑰</i></sub>
 </div>

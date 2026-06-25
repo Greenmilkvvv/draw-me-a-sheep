@@ -81,3 +81,5 @@
 
 > *"Sometimes, there is no harm in putting off a piece of work until another day."*  
 > —— Antoine de Saint-Exupéry
+>
+> *"It is the time you have wasted for your rose that makes your rose so important."*

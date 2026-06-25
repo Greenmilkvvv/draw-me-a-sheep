@@ -53,15 +53,15 @@
 
 </details>
 
+
+
+
+
 ------
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=800&q=80&fit=crop&fm=jpg" width="500" alt="仰望星空" />
-  <br>
-  <sub><i>🌙 真正重要的东西，用眼睛是看不见的</i></sub>
-</div>
 
-<br>
+
+
 
 <details>
 <summary><b>▸ 我们如何驯服它（规则）</b> <sub>点击展开</sub></summary>

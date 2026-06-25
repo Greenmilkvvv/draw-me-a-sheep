@@ -2,13 +2,6 @@
 
 一个简单的协作空间
 
-<div align="center">
-  <img src="https://m.media-amazon.com/images/I/61Xyy18GURL._AC_SX679_.jpg" width="600" alt="星空与沙漠 - 小王子的星球" />
-  <br>
-  <sub><i>✨ 在星空中寻找那一朵独一无二的玫瑰</i></sub>
-</div>
-
-
 
 
 ------
@@ -22,11 +15,13 @@
 
 <br>
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1518895949257-7621c3fbab54?w=40&h=40&q=80&fit=crop&fm=jpg" width="32" alt="玫瑰花" />
+- [ ] blablabla
+- [ ] blablabla 
+
 </div>
 
 <details>
+
 <summary><b>优先照料</b> <sub>(当前需专注)</sub></summary>
 
 <br>
@@ -79,7 +74,9 @@
 ------
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1464639351491-a172c2aa2911?w=120&h=120&q=80&fit=crop&fm=jpg" width="80" alt="狐狸与星星" />
+  <img src="https://m.media-amazon.com/images/I/61Xyy18GURL._AC_SX679_.jpg" width="600" alt="Please……draw me s sheep." />
+  <br>
+  <sub><i> Please……draw me s sheep. </i></sub>
 </div>
 
 > *"Sometimes, there is no harm in putting off a piece of work until another day."*  
